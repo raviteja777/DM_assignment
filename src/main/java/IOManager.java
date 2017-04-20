@@ -15,9 +15,10 @@ import java.util.regex.Pattern;
  * writes output along with missing lines in another file
  *
  */
+
 public class IOManager {
 
-    private static TreeMap<LocalTime,List<String>> timeMsgMap= new TreeMap<>();
+    private static final TreeMap<LocalTime, List<String>> timeMsgMap = new TreeMap<>();
     private static final String FILL_MSG = "missing text here";
     private static final String PREFIX = "Mon Feb 29";
 
