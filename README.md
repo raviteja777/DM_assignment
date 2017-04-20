@@ -8,6 +8,8 @@ platform :jvm (java 1.8)
 
 libraries : java 1.8 sdk , WEKA
 
+Build Tool : maven
+
 IDE : intellij community edition
 
 Note:
