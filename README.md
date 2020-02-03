@@ -1,6 +1,6 @@
-# DM_assignment
+# Data Mining using WEKA
 
-solution for dm assignment 2nd question ->
+Linear Regression using WEKA java api
 
 Tech stack:
 
